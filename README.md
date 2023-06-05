@@ -9,4 +9,4 @@ Feel free to explore the code, run the scripts or notebooks, and refer to the RE
 
 ## Contact
 
-If you have any questions or need further assistance regarding the assignments or the repository, feel free to contact. 
+If you have any questions or need further assistance regarding the assignments or the repository, feel free to contact. I'll be happy to assist you.
