@@ -1,5 +1,5 @@
 # Applied-Data-Science-SmartBridge Externship 
-This repository serves as a collection of all the ADS (Applied Data Science) assignments completed during the SmartBridge Externship program. Each assignment is stored in a separate folder and includes the necessary code, data, and documentation.
+This repository serves as a collection of all the ADS (Applied Data Science) assignments completed during the SmartBridge Externship program. Each assignment is stored as a separate file and includes the necessary code, data, and documentation.
 
 ## Accessing Assignments
 
